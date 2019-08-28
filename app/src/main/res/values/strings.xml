@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Design Patterns</string>
+    <string name="builder">Builder</string>
+</resources>
