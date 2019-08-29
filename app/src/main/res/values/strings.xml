@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Design Patterns</string>
     <string name="builder">Builder</string>
+    <string name="btn_low">低配版电脑</string>
+    <string name="btn_high">高配版电脑</string>
+    <string name="tv_show">暂无电脑</string>
 </resources>
