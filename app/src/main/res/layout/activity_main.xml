@@ -8,7 +8,7 @@
         tools:context=".MainActivity">
 
     <Button
-            android:text="@string/builder"
+            android:text="@string/com.whw.designpatterswithjava.builder"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/btnBuilder" android:layout_marginBottom="380dp"

@@ -5,7 +5,7 @@ package com.whw.designpatterns.builder.builder1
  * 实现类 低配版
  */
 class LowConfigBuilder() :ComputerConfigBuilder {
-    var mComputer?=null
+   lateinit var mComputer:Computer
     init {
 //        var mComputer=Computer()
     }
